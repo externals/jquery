@@ -1,6 +1,6 @@
 # jquery
 
-this is a repo to hold different versions of jquery you may need 
+this is a repo to hold different versions of jquery you may need
 and also to make them available for the toolbax application as default
 
 # jquery ready to run files
@@ -19,7 +19,7 @@ If a new version exists and you need it for the toolbox globaly:
 don't drop other versions! Add your version to it:
 
 Eg: You need verion 2.0.1 system wide:
-checkout the master branch and create a new branch: "v2-0-1" (branches needs - NOT dots!)
+checkout the master branch and create a new branch: "v2-0-1" (branches needs "-" NOT dots!)
 create a folder: mkdir v2.0.1/
 Download the jquery.min.js to v2.0.1/
 commit & push the new vesion branch
