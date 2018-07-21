@@ -31,3 +31,14 @@ Then checkout the "packages" branch and merge your version into it. result:
 ./v2.0.1/jquery.min.js
 ./v2.0.1/README.txt
 
+
+
+    2018-07
+        Adds contextMenu (v2) plugin for jquery v1*
+            @see packages branch plugin/v1/
+        Adds toast (v1.3.2) plugin for jquery v1*
+
+    2017-09
+        Adds Version v1.8.3
+        Adds Version v1.12.4
+        Adds Version v3.1.1
