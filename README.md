@@ -47,14 +47,19 @@ Then checkout the "packages" branch and merge your version into it. result:
     ./vA.B.C/README.txt
     ./v2.0.1/jquery.js
     ./v2.0.1/README.txt
-    ./README.txt (copy of this readme on creation time)
-
+    ./README.txt                        #(copy of this readme on creation time)
+    ./plugins/v1/**                     # Mixed plugins for jquery v1.*
+    ./plugins/v1/datatables/v1****/     # Mixed versions for datatables
+    
 
 
 # Changelog
 
+    2018-09
+        Adds datatables plugin (v1.10.18) @see packages branch plugins/v1/
+
     2018-07
-        Adds contextMenu (v2) plugin for jquery v1*  @see packages branch plugin/v1/
+        Adds contextMenu (v2) plugin for jquery v1*  @see packages branch plugins/v1/
         Adds toast (v1.3.2) plugin for jquery v1*
 
     2017-09
