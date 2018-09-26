@@ -8,7 +8,7 @@ Download of sources:
  
 Usage:
 
-@see: http://...../jquery/plugins/v1/datatables/<version>/media/*
+@see: `http://...../jquery/plugins/v1/datatables/<version>/media/*`
 
 
 
